@@ -6,13 +6,13 @@
 
 ## Introduction to Biological Networks and Knowledge Graphs
 
-* Lecture on Systems Biology and Biological Networks (~1 hour)
-* Practical Work (R langage): 
-    * Omics Data Integration with the SNF tool (~4 hours)
-    * Co-expression Analysis and Omics Data Integration with the WGCNA tool (~4 hours)
+* **Lecture on Systems Biology and Biological Networks** (~1 hour)
+    * Practical Work (R langage): 
+        * Omics Data Integration with the SNF tool (~4 hours)
+        * Co-expression Analysis and Omics Data Integration with the WGCNA tool (~4 hours)
 
-* Lecture on Knowledge Graph Embeddings (~2 hour)
-* Pactical Work with PyTorch and TorchKGE (~4 hours)
+* **Lecture on Knowledge Graph Embeddings** (~2 hour)
+    * Pactical Work with PyTorch and TorchKGE (~4 hours)
 
 ## Introduction to Python Programming
 These courses were partially conducted remotely (Covid-19), some lectures are available on Youtube (in French):
